@@ -45,12 +45,12 @@
 // console.log(newLengthWords)
 
 // ЗАДАНИЕ ДОМАШНЕЕ (6)
-const a = 24
-const b = 'Kirill'
-const c = true
-console.log(a, typeof a)
-console.log(b, typeof b)
-console.log(с, typeof с)
+// const a = 24
+// const b = 'Kirill'
+// const c = true
+// console.log(`Variable: a have type: ${typeof a}`)
+// console.log(`Variable: b have type: ${typeof b}`)
+// console.log(`Variable: c have type: ${typeof c}`)
 
 // ЗАДАНИЕ ДОМАШНЕЕ (7)
 
